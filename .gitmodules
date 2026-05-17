@@ -1,0 +1,6 @@
+[submodule "microservice"]
+	path = microservice
+	url = https://github.com/garc1a04/microservice.git
+[submodule "back-end"]
+	path = back-end
+	url = https://github.com/garc1a04/back-end.git
